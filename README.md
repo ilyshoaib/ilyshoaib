@@ -23,5 +23,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyshoaib&show_icons=true&locale=en&layout=compact" alt="ilyshoaib" /></p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/shoaibahmad.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/shoaibahmad.png" alt="TryHackMe">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyshoaib&" alt="ilyshoaib" /></p>
